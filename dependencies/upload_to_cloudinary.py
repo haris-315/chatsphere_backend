@@ -1,5 +1,4 @@
 import os
-from tkinter.tix import STATUS
 import cloudinary
 import cloudinary.uploader
 from dotenv import load_dotenv
